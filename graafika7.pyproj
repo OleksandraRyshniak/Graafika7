@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>2e09d230-775c-4d94-bf88-e8238ae9bc9a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>graafika7.py</StartupFile>
+    <StartupFile>Teema8.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,10 @@
   <ItemGroup>
     <Compile Include="graafika7.py" />
     <Compile Include="kilpkonn.py" />
+    <Compile Include="Teema8.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="k.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
